@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Email-app
 # 📬 React EmailJS Contact Form
 
@@ -14,7 +13,7 @@ A simple React app that allows users to send emails using [EmailJS](https://www.
 
 ## 📸 Screenshot
 
-![Form UI](./screenshot.png) <!-- Optional -->
+![Website Screenshot](./screen/github.PNG)
 
 ## 🚀 Getting Started
 
